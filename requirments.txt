@@ -3,5 +3,3 @@ yfinance
 numpy
 pandas
 plotly
-
-install all dependices
