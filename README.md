@@ -3,7 +3,7 @@
 A real-time stock market analysis dashboard built using **Linear Algebra** techniques to detect correlations and dominant market trends.
 
 ---
-
+https://stock-market-pattern-detection.streamlit.app/
 ## 🚀 Overview
 
 EigenStock AI is a financial analytics application that uses mathematical concepts such as **matrix multiplication** and **eigen decomposition** to analyze stock price data.
